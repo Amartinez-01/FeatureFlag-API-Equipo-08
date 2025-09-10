@@ -11,6 +11,7 @@ Este espacio será nuestro punto central de desarrollo para el proyecto, en conj
 - **Integrantes:** *(añadir nombres y usuarios de GitHub aquí)*
   - Daniel (@danielramosgarcia83 en GitHub)
   - Daryl (@cremitalab en GitHub)
+  - Juan (@juanmedina100 en GitHub)
 
 ---
 
